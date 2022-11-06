@@ -3,7 +3,7 @@
     "description": "common interface",
     "autoload": {
         "psr-4": {
-            "Wudd\\Interface\\": "src/"
+            "App": "src/"
         }
     },
     "authors": [
