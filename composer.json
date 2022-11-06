@@ -1,0 +1,16 @@
+{
+    "name": "wudd/interface",
+    "description": "common interface",
+    "autoload": {
+        "psr-4": {
+            "Wudd\\Interface\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wudd",
+            "email": "wudd@dianzhong.com"
+        }
+    ],
+    "require": {}
+}
