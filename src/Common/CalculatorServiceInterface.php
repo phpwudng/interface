@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Common;
+namespace WuddInterface\Common;
 
 
 interface CalculatorServiceInterface
